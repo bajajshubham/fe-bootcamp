@@ -17,12 +17,16 @@ levelZero
 |       |
 |       |____assignment1
 |       |       |
+|       |       |____outputandemebed.png
 |       |       |____README.md
+|       |       |____...
 |       |       |    
 |       |____assignemnt2
-|               |
+|       |       |
+|       |       |____result.png
+|       |       |____screenplay.gif
 |               |____README.md
-|               |
+|               |____...
 |____lecture2
 |       |
 |       |...
