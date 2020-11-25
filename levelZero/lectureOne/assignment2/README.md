@@ -22,8 +22,7 @@ ____
 ___
 
 - Check out at: <a href="https://repl.it/@bajajshubham/CricketQuizCLIApp#index.js?embed=1&output=1"> neogcamp:assignment2 </a>
-- Hey, after quiz do share it with me I'll put it on our community, my twitter account and on the repl also.
-- Preview makes it easier before trying  <img src="screenplay.gif" alt="Image not available "></img>
-- After playing do share screenshot with me like this <img src="result.png" alt="image not available"></img>
+- Preview makes it easier before trying  <img src="screenplay.gif" alt="Image not available " height="300px"></img>
+- After playing do share screenshot with me like this <img src="result.png" alt="image not available" height="250px" width="200px"></img>
 
 ____
