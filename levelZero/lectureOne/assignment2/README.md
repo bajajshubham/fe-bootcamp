@@ -22,7 +22,7 @@ ____
 ___
 
 - Check out at: <a href="https://repl.it/@bajajshubham/CricketQuizCLIApp#index.js?embed=1&output=1"> neogcamp:assignment2 </a>
-- Preview makes it easier before trying 
+- Preview makes it easy to try out 
 
 ____
 
