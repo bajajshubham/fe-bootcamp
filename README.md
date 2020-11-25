@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # full stack web devleopment bootcamp
 
 - It is a two level bootcamp levelZero and levelOne.
@@ -7,7 +6,4 @@
 - Here I will documnet my learings, assignments and projects, I will do as of levelZero and as soon as levelOne starts. 
 - levelZero has <strong>X</strong> # of lectures and <strong>Y</strong> # of assignments.
 
-=======
-# full stack developer bootcamp
->>>>>>> 2fbac13d6e7fdd860ec5539891ea7d393b335b9a
 
