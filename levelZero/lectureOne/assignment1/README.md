@@ -17,7 +17,7 @@ ___
 
 ___
 
-- To view code and play with checkout this: <a href="https://repl.it/@bajajshubham/cliintroprj1#index.js?embed=1&output=1"
+- To  play checkout this: <a href="https://repl.it/@bajajshubham/cliintroprj1#index.js?embed=1&output=1"
  target="_blank">neogcamp:assignment1</a>
 ___
 <br>
