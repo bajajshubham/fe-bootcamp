@@ -105,7 +105,6 @@ function print_rules()
 {
   var rules="Welcome to Cricket Quiz.\n\n You have 9 questions with 4 options. \n Each Correct option gives you 50 points \n Wrong option deductes 25 points. \n There are 3 levels Level1, Level2 and Level3 \n To pass each level you have to score 150 points.\n If choice is correct then user will \n See message'Boundary' else 'Bowled' \n Exit any time enter or press '0' \n"
 
-  //console.log("\nHi "+profile.user_name+", "+rules);
   log(chalk.black.italic.bgBlueBright.bold("\nHi "+profile.user_name+", "+rules))
 }
 
